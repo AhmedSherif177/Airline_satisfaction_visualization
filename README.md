@@ -2,7 +2,7 @@
 A program to visualize important information from an airline dataset to better understand how to improve satisfaction levels using pandas and matplotlip. 
 First we read the data and take a look at it to make sure the data is cleaned.
 Then we see the visualizations:
-1-pie chart of loyal and disloyal passengers.\n
+1-pie chart of loyal and disloyal passengers./n
 2-pie chart of satisfied and neutral or dissatisfied passengers.
 3-bar chart of passengers by class.
 4-bar chart of satisfaction level by class.
